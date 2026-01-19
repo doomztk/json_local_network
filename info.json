@@ -1,3 +1,5 @@
 {
-  manutenzione: false
+  "maintenance": true,
+  "title": "Modalità manutenzione",
+  "message": "Il sito è temporaneamente in manutenzione. Riprova tra poco."
 }
